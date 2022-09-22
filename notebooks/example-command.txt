@@ -1,0 +1,1 @@
+python main.py --bioasq-path /media/wojtek/SanDisk/BioAsq-test0 --batch-size 2 --preset abstract --tokenizer gensim --num-workers 0 --ckpt-save-path ../out/ --model meshprobenet --num-gpus 1 --max-epochs 2 --seed 75 --checkpoint-save-filename ../out/my_ckpt.ckpt
